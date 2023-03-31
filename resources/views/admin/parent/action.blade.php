@@ -1,0 +1,1 @@
+<a href="{{ route('parent.edit', $m->id) }}" class="btn btn-sm btn-primary">Edit</a>
